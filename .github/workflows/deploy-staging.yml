@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Stage the app
+name: Stage the ap
 
 on:
   pull_request:
